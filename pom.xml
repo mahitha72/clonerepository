@@ -37,7 +37,7 @@
           </snapshots>
           <id>central</id>
           <name>my-maven-local-release</name>
-          <url>http://localhost:8082/ui/admin/repositories/local/my-maven-local-release</url>
+          <url>http://localhost:8082/ui/admin/repositories/local/my-maven-local-releases</url>
         </repository>
         <repository>
           <snapshots />
@@ -52,8 +52,8 @@
             <enabled>false</enabled>
           </snapshots>
           <id>central</id>
-          <name>my-maven-local-release</name>
-			<url>http://localhost:8082/ui/admin/repositories/local/my-maven-local-release</url>
+          <name>my-maven-local-releases</name>
+			<url>http://localhost:8082/ui/admin/repositories/local/my-maven-local-releases</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
